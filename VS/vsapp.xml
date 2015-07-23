@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vsapp name="yeoject2" version="0.0.1" author="Worldline" url="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="vsapp.xsd">
+
+    <description>
+        <en>
+
+        </en>
+        <fr>
+            yeoject2
+        </fr>
+    </description>
+
+    <versions>
+        <version name="0.0.1">
+            <en>
+
+            </en>
+            <fr>
+                yeoject2
+            </fr>
+        </version>
+    </versions>
+
+    <compatibility
+            min-vsos-version="3.4.12"
+            orientation="horizontal"
+            mouse="indifferent"
+            keyboard="indifferent"
+            touch="required"
+            sound="indifferent"
+            />
+
+    <configuration
+            volume="0"
+            duration="PT60S"
+            tabs="disabled"
+            address-bar="disabled"
+            status-bar="disabled"
+            home-button="disabled"
+            back-forward-buttons="disabled"
+            stop-button="disabled"
+            reload-button="disabled"
+            reset-button="disabled"
+            text-size-button="disabled"
+            print-button="disabled"
+            mouse="hidden"
+            reset-timeout=""
+            reset-warning-timeout=""
+            screensaver-timeout=""
+            background="#000000"
+            />
+
+    <custom-fields>
+
+    </custom-fields>
+
+</vsapp>
